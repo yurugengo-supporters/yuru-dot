@@ -1,0 +1,10 @@
+digraph G {
+	layout=dot // dot | circo | fdp | neato | osage | twopi
+    a -> b
+    a -> c
+    a -> d
+    a -> e
+    a -> f
+    b -> g
+    c -> h [label = "c to h"]
+}

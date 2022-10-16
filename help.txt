@@ -1,0 +1,17 @@
+【DOT言語オンラインエディタ】
+https://dreampuf.github.io/GraphvizOnline/
+
+【DOT言語のリファレンス】
+https://graphviz.org/doc/info/lang.html
+
+【サンプル】
+https://graphs.grevian.org/example
+
+【レイアウトエンジン】
+dot		階層型（デフォルト）
+circo	環状
+fdp		ばねモデル
+neato	ばねモデル エネルギー最小
+osage	整列配置
+twopi	放射状
+https://graphviz.org/docs/layouts/
